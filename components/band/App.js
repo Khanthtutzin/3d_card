@@ -14,7 +14,7 @@ extend({ MeshLineGeometry, MeshLineMaterial });
 
 
 const GLTF_PATH = '/assets/kartu.glb';
-const TEXTURE_PATH = '/assets/bandd.png';
+const TEXTURE_PATH = '/assets/sys.jpg';
 
 useGLTF.preload(GLTF_PATH);
 useTexture.preload(TEXTURE_PATH);
